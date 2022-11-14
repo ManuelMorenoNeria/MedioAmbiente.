@@ -6,3 +6,7 @@
 - Ahorro de energía.
 - Reutilizar cuando sea posible.
 - Y reciclar cuando dejen de funcionar extrayendo las piezas que podamos salvar para utilizarlas en otro dispositivo.
+
+
+![image](re.png)
+
